@@ -1,0 +1,14 @@
+Selectors:
+https://www.w3schools.com/css/css_selectors.asp
+
+How to link CSS File:
+https://www.w3schools.com/css/css_selectors.asp
+
+Another CheatSheet:
+https://flexbox.malven.co/
+
+Flexbox Video:
+https://www.youtube.com/watch?v=JJSoEo8JSnc
+
+Another CSS video:
+https://youtu.be/1PnVor36_40?feature=shared
