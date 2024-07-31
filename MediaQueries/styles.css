@@ -1,0 +1,19 @@
+
+.heading {
+    font-size: 200px;
+  }
+
+/* So for screens 700px and below it would run things in this media query */
+@media (max-width: 700px) {
+    .heading {
+        font-size: 30px;
+    }
+}
+
+/* So for screens 400px and below it would run things in this media query */
+@media (max-width: 400px) {
+    .heading {
+        font-size: 15px;
+        color: red;
+    }
+}
