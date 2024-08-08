@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p {
+            color: red;
+        }
+
+        /* The id overriddes the general styles and a class */
+        #name {
+            color: blue;
+        }
+
+
+    </style>
+</head>
+<body>
+    <!-- You could only have on id on a html element. And a id cant be shared. You could share a class. A id or class -->
+    <p id="name"></p>
+    <p class="books" id="book1">P2</p>
+    <p class="books" id="book2">P3</p>
+    <div id="testid" class="books">
+
+    </div>
+
+    <!-- The script tag links the JS. This is always on the bottom of the body -->
+    <script src="app.js"></script>
+</body>
+</html>
